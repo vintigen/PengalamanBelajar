@@ -1,13 +1,13 @@
 # PengalamanBelajar
 
-13 Agustus 2023
+**13 Agustus 2023**
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 
 * Belajar tentang apa itu Java dan alasan menggunakannya.
 
 * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
-13 Agustus 2023 - kedua
+**13 Agustus 2023 - kedua**
 
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
